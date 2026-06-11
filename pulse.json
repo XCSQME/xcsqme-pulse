@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-11T04:00:01Z",
+  "updated_at": "2026-06-11T05:00:01Z",
   "today": {
-    "total": 17383,
-    "dc": 7493,
-    "tg": 5011,
-    "lark": 4879
+    "total": 19511,
+    "dc": 8270,
+    "tg": 5673,
+    "lark": 5568
   },
   "last_hour": {
-    "total": 2143,
-    "dc": 765,
-    "tg": 644,
-    "lark": 734
+    "total": 2128,
+    "dc": 777,
+    "tg": 662,
+    "lark": 689
   },
   "services": {
     "total": 16,
@@ -19,5 +19,5 @@
     "pm2_processes": 9
   },
   "status": "normal",
-  "last_forward_at": "2026-06-11 11:59:52"
+  "last_forward_at": "2026-06-11 12:58:54"
 }
